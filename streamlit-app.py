@@ -8,3 +8,4 @@ import numpy as np
 '''
 The aim of this project is to enable _SimpooBusiness_ identify and validate customer image uploads.
 '''
+st.balloons()
